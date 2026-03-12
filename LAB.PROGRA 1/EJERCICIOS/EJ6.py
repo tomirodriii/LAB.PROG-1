@@ -4,7 +4,7 @@
 numero = int(input("Ingrese un numero:"))
 
 print(f"Tu contador original es {numero}")
-    numero += 3
+numero += 3
 print(f"El numero mas grande es {numero}")
-    contador -= 6
+numero -= 6
 
