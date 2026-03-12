@@ -1,8 +1,8 @@
 #3. Escribe un programa que realice operaciones aritméticas simples, 
 #como suma, resta, multiplicación y división, utilizando números enteros y flotantes.
 
-num1 = int(input("Ingrese un numero:"))
-num2 = int(input("Ingrese otro numero:"))
+num1 = int(input("Ingrese un numero (No 0):"))
+num2 = int(input("Ingrese otro numero (No 0):"))
 
 sumados = num1 + num2
 restados = num1 - num2

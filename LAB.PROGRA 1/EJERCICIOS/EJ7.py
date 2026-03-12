@@ -23,3 +23,8 @@ if edad < 18:
     
 else:
     print("Felicitaciones, cumpliste la legalidad!")
+    
+if edad / 5 == 0:
+    print("Tu edad es un multiplo de 5")
+else:
+    print("Tu edad no es multiplo de 5")
